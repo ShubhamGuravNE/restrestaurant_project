@@ -1,0 +1,243 @@
+{
+  "users": [
+    {
+      "name": "Shubham",
+      "email": "shubham@test.com",
+      "password": "shubhz@123",
+      "id": 1
+    },
+    {
+      "name": "Abhishek",
+      "email": "abhi123@test.com",
+      "password": "abhi@123",
+      "id": 2
+    },
+    {
+      "email": "amruta123@test.com",
+      "name": "amruta",
+      "password": "amu123",
+      "id": 3
+    },
+    {
+      "email": "saoamu@test.com",
+      "name": "Amruta Sao",
+      "password": "amu1234",
+      "id": 4
+    },
+    {
+      "email": "bb",
+      "name": "aa",
+      "password": "cc",
+      "id": 5
+    },
+    {
+      "email": "bb",
+      "name": "aa",
+      "password": "cc",
+      "id": 6
+    },
+    {
+      "email": "tt",
+      "name": "tt",
+      "password": "tt",
+      "id": 7
+    },
+    {
+      "email": "lll",
+      "name": "lll",
+      "password": "lll",
+      "id": 8
+    },
+    {
+      "email": "hey@test.com",
+      "name": "say",
+      "password": "sayHey",
+      "id": 9
+    },
+    {
+      "email": "hey@test.com",
+      "name": "say",
+      "password": "sayHey",
+      "id": 10
+    },
+    {
+      "id": 11
+    },
+    {
+      "email": "zzz",
+      "name": "zzz",
+      "password": "zzz",
+      "id": 12
+    },
+    {
+      "email": "zzz",
+      "name": "zzz",
+      "password": "zzz",
+      "id": 13
+    },
+    {
+      "email": "zzz",
+      "name": "zzz",
+      "password": "zzz",
+      "id": 14
+    },
+    {
+      "email": "zzz",
+      "name": "zzz",
+      "password": "zzz",
+      "id": 15
+    },
+    {
+      "email": "asdf@test.com",
+      "name": "asdf",
+      "password": "asdf",
+      "id": 16
+    },
+    {
+      "email": "asdf@test.com",
+      "name": "asdf",
+      "password": "asdf",
+      "id": 17
+    },
+    {
+      "email": "fff",
+      "name": "fff",
+      "password": "fff",
+      "id": 18
+    },
+    {
+      "email": "ff",
+      "name": "ff",
+      "password": "ff",
+      "id": 19
+    },
+    {
+      "email": "dd",
+      "name": "dd",
+      "password": "dd",
+      "id": 20
+    },
+    {
+      "email": "ss",
+      "name": "ss",
+      "password": "ss",
+      "id": 21
+    },
+    {
+      "email": "as",
+      "name": "as",
+      "password": "as",
+      "id": 22
+    },
+    {
+      "email": "af",
+      "name": "af",
+      "password": "af",
+      "id": 23
+    },
+    {
+      "email": "af",
+      "name": "af",
+      "password": "af",
+      "id": 24
+    },
+    {
+      "email": "af",
+      "name": "af",
+      "password": "af",
+      "id": 25
+    },
+    {
+      "email": "hi",
+      "name": "hi",
+      "password": "hi",
+      "id": 26
+    },
+    {
+      "email": "hi",
+      "name": "hi",
+      "password": "hi",
+      "id": 27
+    },
+    {
+      "email": "aaa",
+      "name": "aaa",
+      "password": "aaa",
+      "id": 28
+    },
+    {
+      "email": "lo",
+      "name": "lo",
+      "password": "lo",
+      "id": 29
+    },
+    {
+      "email": "ala",
+      "name": "ala",
+      "password": "ala",
+      "id": 30
+    },
+    {
+      "email": "lele",
+      "name": "lele",
+      "password": "lele",
+      "id": 31
+    },
+    {
+      "email": "lp",
+      "name": "lp",
+      "password": "lp",
+      "id": 32
+    },
+    {
+      "email": "hii",
+      "name": "hii",
+      "password": "hii",
+      "id": 33
+    }
+  ],
+  "restaurant": [
+    {
+      "id": 1,
+      "name": "KFC",
+      "address": "Pune, Aundh, Westend mall",
+      "contact": 111
+    },
+    {
+      "name": "Spice Factrory",
+      "address": "Pune, Hinjawdi",
+      "contact": 222,
+      "id": 2
+    },
+    {
+      "id": 3,
+      "name": "Burger King",
+      "address": "Pune, Aundh, Westend mall",
+      "contact": 333
+    },
+    {
+      "id": 4,
+      "name": "Dominos",
+      "address": "Pune, Aundh, Gayakwad square",
+      "contact": 444
+    },
+    {
+      "id": 5,
+      "name": "UFO",
+      "address": "Pune, Aundh, near DAV school",
+      "contact": 555
+    },
+    {
+      "name": "Ambadas",
+      "address": "pune",
+      "contact": "19019",
+      "id": 6
+    },
+    {
+      "name": "Barberry",
+      "address": "Pune, Kothrud",
+      "contact": "7777",
+      "id": 7
+    }
+  ]
+}
