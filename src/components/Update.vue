@@ -17,6 +17,7 @@ export default {
     components: {
         Header
     },
+    
     data(){
         return{
             restaurant:{
@@ -26,6 +27,7 @@ export default {
             }
         }
     },
+
     methods:{
         async updateRestaurant(){
             const result = await axios.put("http://localhost:3000/restaurant/"+this.$route.params.id,{
